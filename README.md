@@ -138,13 +138,7 @@ Weather-box/
 * สถานีตรวจวัดสภาพอากาศขนาดเล็ก
 * ระบบ Smart Home และ Smart City
 * โปรเจกต์ IoT ด้านสิ่งแวดล้อม
-* งานแสดงผลงานและ Portfolio
 
----
-
-## License
-
-This project is intended for educational and research purposes.
 
 
 ```
