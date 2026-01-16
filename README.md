@@ -128,6 +128,12 @@ Weather-box/
 ---
 
 ## Use Cases
+## Project Preview
+<p align="center">
+  <img src="1.jpg" width="420">
+  <img src="2.jpg" width="420">
+</p>
+
 
 * สถานีตรวจวัดสภาพอากาศขนาดเล็ก
 * ระบบ Smart Home และ Smart City
